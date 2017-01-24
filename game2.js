@@ -54,7 +54,9 @@ $(document).ready(function() {
         'background-color': '#BA160C',
         'font-family': 'helvetica',
         'font-weight': 'bolder',
-//         'color': 'yellow',
+        'color': 'yellow',
+
+        //it feels superfluous to duplicate all this data. Can we (YOU. YOU NOAH create a class and assign it? saves text etc.
 //       });
 //     }
 
@@ -64,8 +66,8 @@ $(document).ready(function() {
 
 // });
 
-// var clickIndex=0;
- // var clickIndex++;
+
+ //create mechanism below--it will increase by one and complete the array/comp.
 
 //
 //     });
